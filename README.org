@@ -1,0 +1,12 @@
+#+TITLE: Exercise parallel IO using OpenMPI
+
+* Introduction
+
+This repository is intended to study simple methods of parallel IO.
+
+Tools: OpenMPI, F90, SLURM
+
+
+* Write multiple ASCII files
+
+Here I will study how to write multiple -~in parallel~- simple ASCII files so that I can inspect their content and asses it for consistency with the procedures in the code.c
